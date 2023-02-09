@@ -15,7 +15,7 @@ Mitliagkas, Joao Monteiro.
 
 Under review at ICML 2023.
 
-*Short summary: OOD detection methods have historically focused on the detection of samples from novel classes. Some parallel work have independently tackled the detection of adversarial samples or generated images. In this work, we introduce the benchmark BROAD for the detection of 5 different types of distribution shifts. We show that existing methods perform unreliably across novel distribution shift types, and propose an ensemble method which achieves significant gains in terms of averaged detection AUC.
+*Short summary: OOD detection methods have historically focused on the detection of samples from novel classes. Some parallel work have independently tackled the detection of adversarial samples or generated images. In this work, we introduce the benchmark BROAD for the detection of 5 different types of distribution shifts. We show that existing methods perform unreliably across novel distribution shift types, and propose an ensemble method which achieves significant gains in terms of averaged detection AUC.*
 
 # [CADet: Fully Self-Supervised Anomaly Detection With Contrastive Learning](https://arxiv.org/abs/2210.01742)
 **Charles Guille-Escuret**, Pau Rodriguez, David Vazquez, Ioannis Mitliagkas, Joao Monteiro.
