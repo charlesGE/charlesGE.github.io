@@ -9,10 +9,18 @@ permalink: /publications/
 
 \* denotes equal contributions.
 
+# Expecting The Unexpected: Towards Broad Out-Of-Distribution Detection
+**Charles Guille-Escuret**, Pierre-André Noel, David Vazquez, Ioannis
+Mitliagkas, Joao Monteiro.
+
+Under review at ICML 2023.
+
+*Short summary: OOD detection methods have historically focused on the detection of samples from novel classes. Some parallel work have independently tackled the detection of adversarial samples or generated images. In this work, we introduce the benchmark BROAD for the detection of 5 different types of distribution shifts. We show that existing methods perform unreliably across novel distribution shift types, and propose an ensemble method which achieves significant gains in terms of averaged detection AUC.
+
 # [CADet: Fully Self-Supervised Anomaly Detection With Contrastive Learning](https://arxiv.org/abs/2210.01742)
 **Charles Guille-Escuret**, Pau Rodriguez, David Vazquez, Ioannis Mitliagkas, Joao Monteiro.
 
-Under review at ICLR 2023.
+Under review at ICML 2023.
 
 *Short summary: in this work, we explore applications of self-supervised contrastive learning to the simultaneous detection
 of adversarial samples and unseen classes on images. Our method is inspired by the efficiency of MMD two-sample test in
@@ -21,7 +29,7 @@ discriminating   distributions.*
 # [Towards Out-of-Distribution Adversarial Robustness](https://arxiv.org/abs/2210.03150)
 Adam Ibrahim, **Charles Guille-Escuret**, Ioannis Mitliagkas, Irina Rish, David Krueger, Pouya Bashivan.to
 
-Under review at ICLR 2023. Subset presented at ICML 2022 New Frontiers In Adversarial Machine Learning Workshop.
+Under review at ICML 2023. Subset presented at ICML 2022 New Frontiers In Adversarial Machine Learning Workshop.
 
 *Short summary: adversarial robustness to a type of attack often does not transfer to other attacks, which substantially undermines the efficiency of
 current methods. In this work, we view adversarial attacks as a type of distributional shift, and explore the use of the
